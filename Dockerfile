@@ -12,7 +12,7 @@ WORKDIR /home/irisowner/irisbuild
 ##USER ${ISC_PACKAGE_MGRUSER}
 
 ARG TESTS=0
-ARG MODULE="dc-sample-template"
+ARG MODULE="banksia-demo"
 ARG NAMESPACE="IRISAPP"
 
 ## Embedded Python environment
